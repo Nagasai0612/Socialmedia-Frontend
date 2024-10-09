@@ -1,3 +1,15 @@
+# Project Overview:
+
+# Installation Steps:
+# For Frontend
+npm install
+npm start
+
+# For Backend
+npm init -y
+npm install nodemon --save-dev
+nodemon index.js/server.js
+
 # About
 Socio.Gram is a social media application that has all the basic features of Facebook and Twitter. The "Socio.Gram" app is a dynamic web application that leverages the popular JavaScript library, React, to create an engaging and interactive user interface for social networking. Here's a detailed description of the front-end aspects of such an app. In this application, people can create posts, like, share, and comment, providing a social media kind of environment.
 
